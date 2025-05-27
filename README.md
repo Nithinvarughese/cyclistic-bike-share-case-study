@@ -1,4 +1,4 @@
-# cyclistic-bike-share-case-study
+# 🚲 Cyclistic Bike-Share Case Study
 
 ## 1. Business Task
 
@@ -7,3 +7,13 @@ The purpose of this analysis is to help Cyclistic, a bike-share company in Chica
 This analysis will focus on exploring ride duration, day-of-week usage, and rideable types across user types. Key stakeholders include the marketing director Lily Moreno, the Cyclistic marketing analytics team, and the executive team who will evaluate the proposed strategies.
 
 A successful analysis will lead to actionable insights that can be used to increase the number of profitable annual memberships.
+
+## 2. Data Source
+- Dataset: `divvy_clean_combined.csv` (12 months)
+- Source: [Divvy Trip Data](https://docs.google.com/spreadsheets/d/1uCTsHlZLm4L7-ueaSLwDg0ut3BP_V4mKDo2IMpaXrk4/template/preview?resourcekey=0-dQAUjAu2UUCsLEQQt20PDA#gid=1797029090, https://docs.google.com/spreadsheets/d/179QVLO_yu5BJEKFVZShsKag74ZaUYIF6FevLYzs3hRc/template/preview#gid=640449855)
+
+## 3. Data Cleaning (R)
+- Combined 2019 Q1 and 2020 Q1 datasets
+- Added `ride_length`, `day_of_week`
+- Filtered invalid durations
+- Exported to `divvy_clean_combined.csv`
