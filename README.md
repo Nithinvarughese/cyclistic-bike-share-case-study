@@ -24,3 +24,16 @@ A successful analysis will lead to actionable insights that can be used to incre
 - Added `ride_length`, `day_of_week`
 - Filtered invalid durations
 - Exported to `divvy_clean_combined.csv`
+
+## 4. Data Analysis
+Key differences were observed between annual members and casual riders:
+
+- Casual riders had **longer ride durations** overall (avg ~40 mins), especially on weekends.
+- Members displayed **shorter, more consistent ride durations** throughout the week (avg ~11–13 mins).
+- The highest number of rides for casual riders occurred on **Saturdays and Sundays**.
+- Members ride the most on **weekdays**, suggesting likely commuter behavior.
+
+### 📊 Average Ride Duration by Day of Week
+![Average Ride Duration](rides_by_day.png)
+
+This chart shows that casual riders have longer rides on weekends, whereas members maintain shorter durations every day.
