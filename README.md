@@ -38,6 +38,23 @@ Key differences were observed between annual members and casual riders:
 
 This chart shows that casual riders have longer rides on weekends, whereas members maintain shorter durations every day.
 
+## 5. Visualizations
+### 🚲 Rideable Type Preferences
+
+![Rideable Type by User](bike_type.png)
+
+---
+### 🔥 Heatmap of Rides by Weekday & User
+
+![Ride Frequency Heatmap](ride_frequency.png)
+
+---
+### 📦 Ride Count by User Type
+
+![Ride Count by User Type](total_rides_user_type.png)
+
+---
+
 ## 6. Recommendations
 
 Based on the data:
