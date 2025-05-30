@@ -37,3 +37,18 @@ Key differences were observed between annual members and casual riders:
 ![Average Ride Duration](rides_by_day.png)
 
 This chart shows that casual riders have longer rides on weekends, whereas members maintain shorter durations every day.
+
+## 6. Recommendations
+
+Based on the data:
+
+1. 🧩 **Weekend Membership Campaigns**  
+   Offer short-term or trial memberships focused on weekends to convert casual users.
+
+2. 💼 **Target Commuters with Weekday Ads**  
+   Members ride during peak hours. Focus campaigns around saving time and money commuting.
+
+3. 🚲 **Personalized Marketing by Bike Type**  
+   Suggest preferred bike types (classic vs. electric) to users based on past rides.
+
+---
