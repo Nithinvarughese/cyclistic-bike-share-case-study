@@ -24,6 +24,8 @@ A successful analysis will lead to actionable insights that can be used to incre
 - Added `ride_length`, `day_of_week`
 - Filtered invalid durations
 - Exported to `divvy_clean_combined.csv`
+- R file used for data cleaning
+  ![R file](casestudy.R)
 
 ## 4. Data Analysis
 Key differences were observed between annual members and casual riders:
